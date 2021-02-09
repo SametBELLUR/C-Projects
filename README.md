@@ -1,5 +1,4 @@
-![](img/logo.png)
-
+**--English--**
 **Course Date:** 25.12.2020  
 **Name:** Samet  
 **Surname:** BELLUR  
